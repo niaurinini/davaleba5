@@ -1,0 +1,490 @@
+
+.title1{
+    display: block;
+    text-align: center;
+    font-size: 16px;
+    font-family: "Inter", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    margin-bottom: 4px;
+    margin-top: 80px;
+}
+.title2{
+    display: block;
+    text-align: center;
+    font-size: 54px;
+    margin-bottom: 16px;
+    font-family: "Inter", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.text1{
+    text-align: center;
+    display: block;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.text{
+    margin-bottom: 48px;
+}
+.container{
+    width: 1336px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 48px;
+}
+.section1{
+    width: 310px;
+}
+.section-one{
+    width: 100%;
+}
+.texts1{
+    font-size: 18px;
+    font-family: "Inter", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    display: block;
+    margin-bottom: 4px;
+}
+.texts2{
+    font-size: 14px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    display: block;
+    margin-bottom: 8px;
+}
+.texts3{
+    font-size: 14px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    display: block;
+    margin-bottom: 24px;
+}
+.section2{
+    width: 310px;
+}
+.section-two{
+    width: 100%;
+}
+.text2{
+    font-size: 18px;
+    font-family: "Inter", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    display: block;
+    margin-bottom: 4px;
+}
+.text3{
+    font-size: 14px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    display: block;
+    margin-bottom: 8px;
+}
+.text4{
+    font-size: 14px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    display: block;
+    margin-bottom: 24px;
+}
+.section3{
+    width: 310px;
+}
+.section-three{
+    width: 100%;
+}
+.text5{
+    font-size: 18px;
+    font-family: "Inter", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    display: block;
+    margin-bottom: 4px;
+}
+.text6{
+    font-size: 14px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    display: block;
+    margin-bottom: 8px;
+}
+.text7{
+    font-size: 14px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    display: block;
+    margin-bottom: 24px;
+}
+.section4{
+    width: 310px;
+}
+.ssection-four{
+    width: 100%;
+}
+.text8{
+    font-size: 18px;
+    font-family: "Inter", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    display: block;
+    margin-bottom: 4px;
+}
+.text9{
+    font-size: 18px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    display: block;
+    margin-bottom: 8px;
+}
+.text10{
+    font-size: 18px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    display: block;
+    margin-bottom: 24px;
+}
+.section5{
+    width: 310px;
+}
+.section-five{
+    width: 100%;
+}
+.text11{
+    font-size: 18px;
+    font-family: "Inter", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    display: block;
+    margin-bottom: 4px;
+}
+.text12{
+    font-size: 14px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    display: block;
+    margin-bottom: 8px;
+}
+.text13{
+    font-size: 14px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    display: block;
+    margin-bottom: 24px;
+}
+.section6{
+    width: 310px;
+}
+.section-six{
+    width: 100%;
+}
+.text14{
+    font-size: 18px;
+    font-family: "Inter", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    display: block;
+    margin-bottom: 4px;
+}
+.text15{
+    font-size: 14px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    display: block;
+    margin-bottom: 8px;
+}
+.text16{
+    font-size: 14px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    display: block;
+    margin-bottom: 24px;
+}
+.section7{
+    width: 310px;
+}
+.section-seven{
+    width: 100%;
+}
+.text17{
+    font-size: 18px;
+    font-family: "Inter", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    display: block;
+    margin-bottom: 4px;
+}
+.text18{
+    font-size: 14px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    display: block;
+    margin-bottom: 8px;
+}
+.text19{
+    font-size: 14px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    display: block;
+    margin-bottom: 24px;
+}
+.section8{
+    width: 310px;
+}
+.setion-eight{
+    width: 100%;
+}
+.text20{
+    font-size: 18px;
+    font-family: "Inter", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    display: block;
+    margin-bottom: 4px;
+}
+.text21{
+    font-size: 14px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    display: block;
+    margin-bottom: 8px;
+}
+.text22{
+    font-size: 14px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    display: block;
+    margin-bottom: 24px;
+}
+.icons{
+    width: 140px;
+    height: 36px;
+    margin-bottom: 64px;
+    display: flex;
+    justify-content: space-between;
+}
+.fb{
+    width: 18px;
+    height: 18px;
+}
+.icon1{
+    width: 36px;
+    height: 36px;
+    background-color:  #F2F4F7;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inst{
+    width: 18px;
+    height: 18px;
+}
+.twit{
+    width: 18px;
+    height: 18px;
+}
+.footer{
+    background-color: #53535354;
+    /* height: 518px; */
+}
+.activ{
+    width: 1306px;
+    margin: 0 auto;
+    /* height: 223px; */
+    display: flex;
+    justify-content: space-around;
+
+
+}
+.activ1{
+    width: 318.05px;
+    /* height: 221px; */
+    display: flex;
+    flex-direction: column;
+    margin-top: 108px;
+
+}
+.logo1{
+    width: 100px;
+    height: 64px;
+    display: block;
+    margin-bottom: 32px;
+}
+.par1{
+    font-size: 14px;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+    "slnt" 0;
+    margin-bottom: 28px;
+}
+.icons{
+    /* width: 104px; */
+    display: flex;
+    vertical-align: bottom;
+}
+.fb1{
+    width: 24px;
+}
+.inst1{
+    width: 18.75px;
+}
+.inn{
+    width: 19.89px;
+}
+.activ2{
+    width: 136px;
+    /* height: 223px; */
+    display: flex;
+    flex-direction: column;
+    margin-top: 108px;
+}
+.par2{
+    font-size: 20px;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:
+    "slnt" 0;
+    display: block;
+    margin-bottom: 55px;
+}
+.par3{
+    font-size: 14px;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+    "slnt" 0;
+    display: block; 
+    margin-bottom: 15px;
+}
+.par4{
+    font-size: 14px;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+    "slnt" 0;
+    display: block;
+    margin-bottom: 15px;
+}
+.par5{
+    font-size: 14px;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+    "slnt" 0;
+    display: block;
+}
+.activ3{
+    width: 199px;
+    display: flex; 
+    flex-direction: column;
+    margin-top: 108px;
+}
+
+.par6{
+    font-size: 20px;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:
+    "slnt" 0;
+    display: block;
+    margin-bottom: 55px;
+}
+.par7{
+    font-size: 14px;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+    "slnt" 0;
+    display: block;
+    margin-bottom: 15px;
+}
+.par8{
+    font-size: 14px;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+    "slnt" 0;
+    display: block;
+    margin-bottom: 15px;
+}
+.par9{
+    font-size: 14px;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+    "slnt" 0;
+    display: block;
+}
+.activ4{
+    width: 107px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 108px;
+}
+.div-fb{
+    width: 80px;
+    height: 45px;
+    background-color: #054A68;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.english{
+    color: #FFFFFF;
+}
+.par10{
+    font-size: 20px;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:
+    "slnt" 0;
+    display: block;
+    margin-bottom: 58.45px;
+}
+.image-fb{
+    width: 80px;
+    height: 45px;
+    display: block;
+}
